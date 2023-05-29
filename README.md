@@ -1,5 +1,3 @@
-# Capstone_Project_Module_2
+# Social Media Data Analyst
 
-Halo saya Muhammad Vareza Mirza Dari kelas Job Connector Data Scientist Purwadhika Digital School on Campus, disini saya melampirkan file dengan extension .ipynb untuk project capstone modul 2.
-
-Here's the URL for Tableau : https://public.tableau.com/views/CapsPro_2/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz
+This is some project to analized some data for content creator in social media.
